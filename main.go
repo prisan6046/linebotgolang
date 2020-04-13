@@ -45,7 +45,7 @@ type ProFile struct {
 	StatusMessage string `json:"statusMessage"`
 }
 
-var ChannelToken = "mCnRzdrjpt4LsTGz0IqllPlUZP2y+Mc7QtNwFTUfFtT5yiBhnCbw6tW/+pCh/9hDmAKgIDtJMmW7LjFUXHKobhuhLS/FwUWoUPz2fdTXUrrxXPEu+CPjsv1pkhRVb13wx5sKkjWRmXSE4i6UbonaBgdB04t89/1O/w1cDnyilFU="
+var ChannelToken = ""
 
 
 func main() {
